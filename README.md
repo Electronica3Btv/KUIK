@@ -3,13 +3,13 @@ Imagen KUIK 2.0
 
 -Anydesk descargado pero no instalado
 -script de Puesta en marcha de anydesk
-
+-lanzadores de los scripts creados en Startup, solo falta activar el que se necesite.
 
 -Ultima version de los scripts de Github
 
 -Los symlinks de ttyTPV y ttyQR
 
--Archivo comprimido de los Drivers
+-Archivo comprimido de los Drivers de la impresora
 
 
 Por hacer:
@@ -20,7 +20,7 @@ Por hacer:
 
 
 
-GIT
+GIT GUIDE
 
 Descargar
 
