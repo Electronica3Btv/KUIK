@@ -2,8 +2,10 @@
 Imagen KUIK 2.0
 
 -Anydesk descargado pero no instalado
--script de Puesta en marcha de anydesk
--lanzadores de los scripts creados en Startup, solo falta activar el que se necesite.
+-Script de Puesta en marcha de anydesk
+-Lanzadores de los scripts creados en Startup, solo falta activar el que se necesite.
+-reinicio a las 4:05 AM
+-DHCP activado
 
 -Ultima version de los scripts de Github
 
