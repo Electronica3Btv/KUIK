@@ -7,7 +7,7 @@ Imagen KUIK 2.0
 -reinicio a las 4:05 AM
 -DHCP activado
 
--Ultima version de los scripts de Github
+-Ultima version de los scripts de Github 10/06/2024
 
 -Los symlinks de ttyTPV y ttyQR
 
