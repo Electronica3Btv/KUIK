@@ -12,4 +12,3 @@ anydesk --get-id
 echo Setting Password
 echo 1Kuik21Kuik2 | anydesk --set-password
 echo password set
-anydesk
