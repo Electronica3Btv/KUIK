@@ -7,6 +7,8 @@ Imagen KUIK 2.0
 -reinicio a las 4:05 AM
 -DHCP activado
 
+
+
 -Ultima version de los scripts de Github 10/06/2024
 
 -Los symlinks de ttyTPV y ttyQR
@@ -15,9 +17,11 @@ Imagen KUIK 2.0
 
 
 Por hacer:
+	-Elegir si es Intelio o Maletas en el Startup
 	-(en caso de haber TPV) 60 segundos de BOOT en la BIOS
 	-Auto-Startup en la BIOS
 	-(Si se quiere) Tunel
+	-Cambiar el archivo del TPV nuestro por el del cliente
 
 
 
